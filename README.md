@@ -4,6 +4,10 @@ Solution for BlazeSoft take-home test for Front-end Developer position
 
 https://qudus-bookstore.herokuapp.com/
 
+To install dependencies you can run:
+
+### `npm install`
+
 To run Locally, in the project directory, you can run:
 
 ### `npm start`
